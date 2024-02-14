@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1707428765969" clover="3.2.0">
+  <project timestamp="1707428765969" name="All files">
+    <metrics statements="50" coveredstatements="42" conditionals="10" coveredconditionals="8" methods="36" coveredmethods="26" elements="96" coveredelements="76" complexity="0" loc="50" ncloc="50" packages="1" files="2" classes="2"/>
+    <file name="todo.js" path="/Users/katelynmceneaney/repos/todoList/todo.js">
+      <metrics statements="11" coveredstatements="10" conditionals="2" coveredconditionals="2" methods="6" coveredmethods="5"/>
+      <line num="7" count="54" type="stmt"/>
+      <line num="8" count="54" type="stmt"/>
+      <line num="12" count="11" type="cond" truecount="2" falsecount="0"/>
+      <line num="13" count="11" type="stmt"/>
+      <line num="17" count="12" type="stmt"/>
+      <line num="21" count="1" type="stmt"/>
+      <line num="25" count="27" type="stmt"/>
+      <line num="29" count="0" type="stmt"/>
+      <line num="33" count="1" type="stmt"/>
+      <line num="34" count="1" type="stmt"/>
+      <line num="36" count="1" type="stmt"/>
+    </file>
+    <file name="todoList.js" path="/Users/katelynmceneaney/repos/todoList/todoList.js">
+      <metrics statements="39" coveredstatements="32" conditionals="8" coveredconditionals="6" methods="30" coveredmethods="21"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="8" count="20" type="stmt"/>
+      <line num="9" count="20" type="stmt"/>
+      <line num="13" count="58" type="cond" truecount="2" falsecount="0"/>
+      <line num="14" count="2" type="stmt"/>
+      <line num="16" count="56" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+      <line num="24" count="1" type="stmt"/>
+      <line num="28" count="1" type="stmt"/>
+      <line num="32" count="8" type="cond" truecount="2" falsecount="0"/>
+      <line num="33" count="3" type="stmt"/>
+      <line num="35" count="5" type="stmt"/>
+      <line num="39" count="3" type="stmt"/>
+      <line num="43" count="1" type="stmt"/>
+      <line num="47" count="4" type="stmt"/>
+      <line num="51" count="1" type="stmt"/>
+      <line num="55" count="1" type="stmt"/>
+      <line num="59" count="2" type="stmt"/>
+      <line num="60" count="1" type="stmt"/>
+      <line num="61" count="1" type="stmt"/>
+      <line num="65" count="5" type="stmt"/>
+      <line num="66" count="11" type="stmt"/>
+      <line num="67" count="5" type="stmt"/>
+      <line num="71" count="4" type="stmt"/>
+      <line num="75" count="1" type="stmt"/>
+      <line num="76" count="1" type="stmt"/>
+      <line num="77" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="78" count="1" type="stmt"/>
+      <line num="82" count="1" type="stmt"/>
+      <line num="87" count="0" type="stmt"/>
+      <line num="92" count="0" type="stmt"/>
+      <line num="96" count="0" type="stmt"/>
+      <line num="102" count="0" type="stmt"/>
+      <line num="103" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="104" count="0" type="stmt"/>
+      <line num="110" count="6" type="stmt"/>
+      <line num="114" count="0" type="stmt"/>
+      <line num="119" count="4" type="stmt"/>
+      <line num="125" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
